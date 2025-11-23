@@ -17,15 +17,3 @@ printf ("Nie jest to litera ani liczba \n");
 
 
 
-//    if (a > b && a > c)
-  //      printf("%d jest najwieksza", a); 
-
-  //  else 
-    //    printf("Liczby sa rowne\n"); 
-
-//char znak;
-//printf("Podaj znak");
-//scanf("%d", &znak);
-//printf("%c", znak);
-
-
