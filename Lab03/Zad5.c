@@ -10,7 +10,7 @@ if (znak >= '0' && znak <= '9')
 
 printf("Jest to liczba \n", znak);
 else if (znak >= 'A' && znak <= 'Z' || znak >= 'a' && znak <= 'z')
-printf ("Jest to litera \n", znak);
+printf ("Jest to litera: \n", znak);
 else 
 printf ("Nie jest to litera ani liczba \n");
 }
