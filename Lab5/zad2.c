@@ -1,5 +1,6 @@
 //Napisz program który wczyta od użytkownika parę liczb naturalnych a,b i zwróci wynik działania a do potęgi b. W rozwiązaniu nie kożystaj z potęgowania.
 
+
 #include<stdio.h>
 
 int main()  
@@ -18,9 +19,9 @@ for (wynik=1; b>0; --b)
 {
     wynik *= a;
 }
+printf("Wynik: %d \n", wynik);
 }
 
-printf("Wynik: %d \n", wynik);
 }
 
 
